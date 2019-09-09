@@ -107,10 +107,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Have in app toggle for mobile/desktop
-- Recreate in React
-- Recreate in Laravel
-- Push to live online web hosting
+- Have an in-app toggle for mobile/desktop view
 
 #### If you finish early...
 
