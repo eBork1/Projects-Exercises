@@ -97,7 +97,7 @@ To complete the assignment, you must complete the following:
 - Your repo should be public so that others can see your code and comment on it.
   - _**Remember to push to GitHub!**_
   - Potential employers will view your GitHub profile, so activity is crucial!
-  - _**Do not save your Public IP on GitHub, anyone can access your computer**_
+  - _**Do not save your Public IP on GitHub; anyone can access your computer**_
 
 #### Stretch Goals
 

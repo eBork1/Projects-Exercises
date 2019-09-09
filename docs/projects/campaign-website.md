@@ -41,7 +41,8 @@ By default, the app should show potential voters who the candidate is and have l
 #### Tech Stack
 
 1. HTML
-2. CSS
+2. CSS (via Bootstrap)
+3. JS (via Bootstrap)
 
 ### Process
 
@@ -118,7 +119,8 @@ To complete the assignment, you must complete the following:
 #### Additional Requirements
 
 - Website must be responsive
-- Style your app as you wish
+- Try your hardest to use bootstrap for any and all css changes - this project is to get familiar with the framework
+- Style your app as you wish - [bootstrap generators are helpful if you dont like the standard colors](https://themestr.app/theme)
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
   - _**Remember to push to GitHub!**_
@@ -155,3 +157,4 @@ For more information about content creation, see these articles:
 
 - [Content Creation Tips](https://blog.hubspot.com/marketing/content-creation)
 - [Content Creation Process](https://www.postmm.com/web-design/content-marketing/content-creation-process/)
+- [Bootstrap Theme Generator](https://themestr.app/theme)

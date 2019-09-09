@@ -83,8 +83,9 @@ To complete the assignment, you must complete the following:
 
 Users
 
-- user id (string)
+- user id (string) - this will be the "library card"
 - user name (string)
+- any other info you would like to store that is NOT redundant
 
 | user_id (string) | user_name (string) |
 | ---------------- | ------------------ |
@@ -97,6 +98,7 @@ Books
 - book id (string) - linked to Google Book API Book ID so we do not actually store the book pdf in our repo
 - user id of user that currently has this book checked out (foreign key)
 - times the book has been checked out (integer)
+- any other info you would like to store that is NOT redundant
 
 | book_id (string) | user_id (foreign key) | number_of_times_checked_out (int) |
 | ---------------- | --------------------- | --------------------------------- |
@@ -135,6 +137,7 @@ Books
 - Add a way for a user to 'renew' their checked out book
 - Add a way for users to put a book on hold if someone else has it currently checked out
 - Add a history for the librarians to see a list of all people who checked out a particular book
+- Add any other data to the scheme as long as it is NOT redundant
 
 #### If you finish early...
 

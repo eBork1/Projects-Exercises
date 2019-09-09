@@ -2,9 +2,9 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage that displays json that has been cleaned up for user viewing
 
-For this project we will be using **_something_**
+For this project we will be using PHP to perform a GET request and parse data to the screen
 
 ### Table of contents
 

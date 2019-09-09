@@ -80,12 +80,21 @@ Option 2
 
 To complete the assignment, you must complete the following:
 
-1. Componentize each vanilla JS project with the following additional requirements:
+1. Keep the original projects in their repos, you can use them as reference, but since you will be creating most of these in react.js, you will not need to copy old code over, but rather create a new version from scratch that lives in this repo instead.
+2. Componentize each of the following vanilla JS project with the following additional requirements:
    - Clock and Countdown Timer will be one component with a prop that says which view to display, and a prop that is the start button for the countdown timer
-   - etc (need to finish)
-2. Use the entire tech stack to complete the project
-3. Push to Google Cloud
-4. Link Google Cloud live link to your github repo in README.md and the [project description](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github)
+   - Weather app shows a minified icon version of the weather on the main screeen, and when you click on the app, it shows the full weather app
+   - CRUD Component Clone lets you perform an action without clicking on the app to load it (iOS long press)
+   - Calculator, and To-Do List retains state and data in case someone exits app and re opens it (prop to force quit)
+   - Mind Reader, sliding puzzle and Tic-Tac-Toe acts as a combined game center app that lets the user select which game to play (also maintains state so a player can come back and pick up where they left off)
+3. The following apps do not need to be added into the componentized version, but instead, a dedicated section with descriptions of each that links to their respective GitHub repos should exist, as they are standalone WebApps/Sites:
+   - Blog
+   - Campaign Website
+   - PHP 1
+   - PHP 2
+4. Use the entire tech stack to complete the project
+5. Push to Google Cloud
+6. Link Google Cloud live link to your github repo in README.md and the [project description](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github)
 
 #### Additional Requirements
 

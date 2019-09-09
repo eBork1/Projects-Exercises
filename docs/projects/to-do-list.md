@@ -4,7 +4,7 @@
 
 Create an online to-do app
 
-For this project we will be using **_something_**
+For this project we will be using vanilla JavaScript to manage state and local storage to keep track of data
 
 ### Table of contents
 
