@@ -46,7 +46,7 @@ To complete the assignment, you must complete the following:
 
 1. Push your code to Github remote
 2. View your website on your laptop and phone
-3. Post links to your Github repo to the Projects and Exercises Slack channel
+3. Post links to your Github repo to the Projects Slack channel
 
 ### Application file structure
 

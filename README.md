@@ -33,7 +33,6 @@
 <!--
 ### Finish content
 
-
 - [Campaign Website](docs/projects/campaign-website.md)
 - [To Do List](docs/projects/to-do-list.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/projects/PHP-1.md)

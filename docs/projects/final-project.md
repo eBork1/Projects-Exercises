@@ -65,7 +65,7 @@ By default, your app should use all the technologies learned throughout the boot
 
 1. Create a Pull Request from `dev` into `master`
 2. Confirm code is up to date and works correctly
-3. Post links to your GitHub repo to the Projects and Exercises Slack channel
+3. Post links to your GitHub repo to the Projects Slack channel
 
 ---
 

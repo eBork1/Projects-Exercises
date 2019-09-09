@@ -28,7 +28,7 @@ For this project we will be using react to componentize all our vanilla javascri
 
 ### MVP
 
-By default, the app should show off your projects and exercises in a clean and concise format, and be able to be re-arranged in the code to create different layouts
+By default, the app should show off your projects in a clean and concise format, and be able to be re-arranged in the code to create different layouts
 
 #### Wireframe
 
@@ -70,7 +70,7 @@ Option 2
 
 1. Create a Pull Request from `dev` into `master`
 2. Confirm code is up to date and works correctly
-3. Post links to your GitHub repo to the Projects and Exercises Slack channel
+3. Post links to your GitHub repo to the Projects Slack channel
 
 ---
 
