@@ -75,6 +75,7 @@ It is okay if your project has more files and directories, but you at least need
 3. View changes and test locally
 4. Save often, and commit to your development branch on GitHub when important changes happen
 5. Push your commits to GitHub remote
+6. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ##### Deploy:
 
@@ -91,7 +92,7 @@ To complete the assignment, you must complete the following:
 1. Continuous updates to your blog throughout the bootcamp
 2. Help others out with making their blog look good
 3. Integrate with your portfolio
-4. Create a PR for the [everyones-blogs.md](../everyones-blogs.md) file, correcting *your* personal information if it is wrong.
+4. Create a PR for the [everyones-blogs.md](../everyones-blogs.md) file, correcting _your_ personal information if it is wrong.
 
 #### Additional Requirements
 

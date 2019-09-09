@@ -64,6 +64,7 @@ By default, the app should let a Librarian maintain a simulated library via a we
 3. View changes and test locally
 4. Save often, and commit to your development branch on GitHub when important changes happen
 5. Push your commits to GitHub remote
+6. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ##### Deploy:
 
@@ -84,17 +85,16 @@ Users
 
 - user id (string)
 - user name (string)
-- number of books currently checked out (integer)
 
-| user_id (string) | user_name (string) | books_checked_out (int) |
-| ---------------- | ------------------ | ----------------------- |
-| 217bhjds8        | ianrios            | 3                       |
-| 3fioy7823        | justinhall         | 12                      |
-| 62hd7gd11        | nicksuch           | 0                       |
+| user_id (string) | user_name (string) |
+| ---------------- | ------------------ |
+| 217bhjds8        | ianrios            |
+| 3fioy7823        | justinhall         |
+| 62hd7gd11        | nicksuch           |
 
 Books
 
-- book id (string)
+- book id (string) - linked to Google Book API Book ID so we do not actually store the book pdf in our repo
 - user id of user that currently has this book checked out (foreign key)
 - times the book has been checked out (integer)
 
@@ -130,6 +130,11 @@ Books
 
 - Create a search bar for querying books from the Google Books API
 - Implement Laravel Auth using composer to create many "Librarians"
+- Add a 'due by date' that keeps track of how long a book has been checked out
+- Add a 'late fee' for books that have been checked out too long that can be modified by the librarian
+- Add a way for a user to 'renew' their checked out book
+- Add a way for users to put a book on hold if someone else has it currently checked out
+- Add a history for the librarians to see a list of all people who checked out a particular book
 
 #### If you finish early...
 

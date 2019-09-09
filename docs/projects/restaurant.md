@@ -34,6 +34,7 @@ To complete the assignment, you must complete the following:
 4. Create a `dev` branch to commit your code to
 5. Create necessary files for application
 6. Import necessary css/js files (Bootstrap)
+7. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ###### Develop:
 

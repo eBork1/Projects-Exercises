@@ -72,6 +72,7 @@ It is okay if your project has more files and directories, but you at least need
 2. View changes and test locally
 3. Save often, and commit to your development branch on GitHub when important changes happen
 4. Push your commits to GitHub remote
+5. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ##### Deploy:
 

@@ -65,12 +65,13 @@ Option 2
 3. View changes and test locally
 4. Save often, and commit to your development branch on GitHub when important changes happen
 5. Push your commits to GitHub remote
+6. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ##### Deploy:
 
-1. Create a Pull Request from `dev` into `master`
+1. Create a Pull Request from `dev` into `master` on GitHub
 2. Confirm code is up to date and works correctly
-3. Push Final Portfolio to Google Cloud
+3. Push Final Portfolio to Google Cloud remote
 4. Post links to your GitHub repo and the Google Cloud Link to the Projects Slack channel
 
 ---

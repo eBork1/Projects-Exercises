@@ -67,6 +67,7 @@ By default, the clone app should replicate the design and functionality of the r
 3. View changes and test locally
 4. Save often, and commit to your development branch on GitHub when important changes happen
 5. Push your commits to GitHub remote
+6. For bug fixes, refactored code, and feature branches, you must create a branch off of `dev` onto a `new-feature` branch and create a PR into dev when complete
 
 ##### Deploy:
 
@@ -80,13 +81,14 @@ By default, the clone app should replicate the design and functionality of the r
 
 To complete the assignment, you must complete the following:
 
-1. Follow atomic design principles for deconstructing the original web app look
+1. Deconstruct the webapp you plan to clone (do not worry about matching fonts or images/colors, we are only concered with design layout and components/functional features)
+2. Follow atomic design principles for deconstructing the original web app look
 
    - Atoms -> Molecules -> Organism (component)
 
-2. Use React.js for creating components
-3. Use Laravel to create Templates (blades) to put the reusable components on for multiple pages (different type of blade, with imports for template blades)
-4. Have full CRUD functionality for at least one aspect of the site (does not need to be complicated)
+3. Use React.js for creating components
+4. Use Laravel to create Templates (blades) to put the reusable components on for multiple pages (different type of blade, with imports for template blades)
+5. Have full CRUD functionality for at least one aspect of the site (does not need to be complicated)
 
 - For example, in gmail:
 - Create a new email in drafts (CREATE)
@@ -94,8 +96,8 @@ To complete the assignment, you must complete the following:
 - Change the state from unread to read (UPDATE)
 - Delete an email (DELETE)
 
-5. Use a random text generator [API](http://www.randomtext.me/) _or_ [NPM package](https://www.npmjs.com/package/casual) to create random tweets/emails/usernames/trello cards etc...
-6. Be able to port this app onto your portfolio website either by adding a link or putting the files into your Laravel portfolio project
+6. Use a random text generator [API](http://www.randomtext.me/) _or_ [NPM package](https://www.npmjs.com/package/casual) to create random tweets/emails/usernames/trello cards etc...
+7. Be able to port this app onto your portfolio website either by adding a link or putting the files into your Laravel portfolio project
 
 #### Additional Requirements
 
@@ -122,6 +124,8 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Atomic Design Principles - book](http://atomicdesign.bradfrost.com/)
+- [How to Deconstruct a Website (2010)](https://www.smashingmagazine.com/2010/05/case-study-deconstructing-popular-websites-opinion-column/)
+- [How to Deconstruct a Website (2017)](https://github.com/dsinecos/notes/wiki/How-to-deconstruct-a-website's-front-end-for-learning%3F)
 
 For more information about clone apps, see these articles:
 
