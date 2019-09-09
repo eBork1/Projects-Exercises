@@ -55,8 +55,8 @@ By default, the clone app should replicate the design and functionality of the r
 
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code via CLI
+3. Create necessary files for application and view in VS Code via CLI
+4. Initialize directory as repo and [link to existing repo you created on GitHub](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 

@@ -53,8 +53,8 @@ Option 2
 
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code via Composer CLI
+3. Create necessary files for application and view in VS Code via Composer CLI
+4. Initialize directory as repo and [link to existing repo you created on GitHub](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -70,7 +70,8 @@ Option 2
 
 1. Create a Pull Request from `dev` into `master`
 2. Confirm code is up to date and works correctly
-3. Post links to your GitHub repo to the Projects Slack channel
+3. Push Final Portfolio to Google Cloud
+4. Post links to your GitHub repo and the Google Cloud Link to the Projects Slack channel
 
 ---
 
@@ -81,8 +82,9 @@ To complete the assignment, you must complete the following:
 1. Componentize each vanilla JS project with the following additional requirements:
    - Clock and Countdown Timer will be one component with a prop that says which view to display, and a prop that is the start button for the countdown timer
    - etc (need to finish)
-2. Requirement 2
-3. Requirement 3
+2. Use the entire tech stack to complete the project
+3. Push to Google Cloud
+4. Link Google Cloud live link to your github repo in README.md and the [project description](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github)
 
 #### Additional Requirements
 

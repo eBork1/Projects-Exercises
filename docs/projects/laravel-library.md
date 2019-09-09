@@ -2,9 +2,11 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage that acts as a hub for librarians to know the status of books in their library, and update books and their information
 
-For this project we will be using **_something_**
+For this project we will be using Composer to generate a Laravel project
+
+Learn about how to properly [link a repo created on the command line with an existing repo you created on the GitHub website](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 ### Table of contents
 
@@ -48,10 +50,10 @@ By default, the app should let a Librarian maintain a simulated library via a we
 
 ##### Setup:
 
-1. Create repo, for example: `my-app`
+1. Create repo on GitHub, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code via Composer CLI
+3. Create necessary files for application and view in VS Code via Composer CLI
+4. Initialize directory as repo and [link to existing repo you created on GitHub](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -84,11 +86,28 @@ Users
 - user name (string)
 - number of books currently checked out (integer)
 
+| user_id (string) | user_name (string) | books_checked_out (int) |
+| ---------------- | ------------------ | ----------------------- |
+| 217bhjds8        | ianrios            | 3                       |
+| 3fioy7823        | justinhall         | 12                      |
+| 62hd7gd11        | nicksuch           | 0                       |
+
 Books
 
 - book id (string)
 - user id of user that currently has this book checked out (foreign key)
 - times the book has been checked out (integer)
+
+| book_id (string) | user_id (foreign key) | number_of_times_checked_out (int) |
+| ---------------- | --------------------- | --------------------------------- |
+| iui4vdsua        | 217bhjds8             | 1                                 |
+| 876b3ksyn        | 217bhjds8             | 10                                |
+| 16fkc44c4        | 62hd7gd11             | 7                                 |
+| qyjdi7sje        | 217bhjds8             | 4                                 |
+| tzbckg83n        | 62hd7gd11             | 1                                 |
+| 08hkudtbj        | 62hd7gd11             | 2                                 |
+| 235jc7782        | 62hd7gd11             | 3                                 |
+| 1uuid78h3        | null                  | 4                                 |
 
 3. Full CRUD operations should be available for `Users`
 4. Read access should be available for `Books` (it is not possible to perform Create, Update, or Delete functions on the Google Books API) via GET requests

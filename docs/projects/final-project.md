@@ -48,8 +48,8 @@ By default, your app should use all the technologies learned throughout the boot
 
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application via CLI and view in VS Code
+3. Create necessary files for application via CLI and view in VS Code
+4. Initialize directory as repo and [link to existing repo you created on GitHub](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -65,7 +65,8 @@ By default, your app should use all the technologies learned throughout the boot
 
 1. Create a Pull Request from `dev` into `master`
 2. Confirm code is up to date and works correctly
-3. Post links to your GitHub repo to the Projects Slack channel
+3. Push Final Portfolio to Google Cloud
+4. Post links to your GitHub repo and the Google Cloud Link to the Projects Slack channel
 
 ---
 
@@ -85,6 +86,7 @@ To complete the assignment, you must complete the following:
 4. Use React.js for components and front end functionality
 5. Use Laravel for blades and back end connectivity
 6. Use Google Cloud and Firebase for site and database hosting
+7. Link Google Cloud live link to your github repo in README.md and the [project description](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github)
 
 #### Additional Requirements
 
