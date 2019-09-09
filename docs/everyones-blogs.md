@@ -9,7 +9,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 # Blogs
 
 - Taylor Akin - [https://tayloraakin.github.io/](https://tayloraakin.github.io/)
-- Will McGill - [http://willmicgill.github.io/](http://willmicgill.github.io/)
+- Will McGill - [http://willmcgill.github.io/](http://willmcgill.github.io/)
 - David Joyce - [https://dmjoyce951.github.io/](https://dmjoyce951.github.io/)
 - Robbie Gay - [https://robbiegay.github.io/](https://robbiegay.github.io/)
 - Todd Trivisonno - [https://todtrivisonno.github.io/](https://todtrivisonno.github.io/)
@@ -23,7 +23,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 # GitHub Profiles
 
 - Taylor Akin - [https://www.github.com/tayloraakin](https://www.github.com/tayloraakin)
-- Will McGill - [https://www.github.com/willmicgill](http://www.github.com/willmicgill)
+- Will McGill - [https://www.github.com/willmcgill](http://www.github.com/willmcgill)
 - David Joyce - [https://www.github.com/dmjoyce951](https://www.github.com/dmjoyce951)
 - Robbie Gay - [https://www.github.com/robbiegay](https://www.github.com/robbiegay)
 - Todd Trivisonno - [https://www.github.com/todtrivisonno](https://www.github.com/todtrivisonno)
