@@ -95,7 +95,7 @@ It is okay if your project has more files and directories, but you at least need
 
 To complete the assignment, you must complete the following:
 
-1. Display the current time
+1. Display the current time (Hour:Minute:Second AM/PM) as a digital clock format
 2. Make sure it updates every second without refreshing the page
 
 #### Additional Requirements

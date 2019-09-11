@@ -96,7 +96,7 @@ It is okay if your project has more files and directories, but you at least need
 To complete the assignment, you must complete the following:
 
 1. Display the time in a digital clock format 
-2. The only time related data that should display is: (Day-Month-Year) and (Hour:Minute:Second)
+2. The only time related data that should display is: (Hour:Minute:Second) (counting down to something within the same day) and (Day-Month-Year) if applicable (counting down to something in the far future)
 3. Make sure it updates every second without refreshing the page
 4. Stop the timer when countdown reaches 0
 
