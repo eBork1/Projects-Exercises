@@ -5,7 +5,14 @@ You will need to initialize directory as repo and [link to existing repo you cre
 Process:
 
 Make sure you are in your repo via the `pwd` terminal command
-`git init git add README.md git commit -m "first commit" git remote add origin https://github.com/__username__/__repo__.git git push -u origin master`
+
+```
+git init 
+git add -A
+git commit -m "first commit"
+git remote add origin https://github.com/__username__/__repo__.git
+git push -u origin master
+```
 
 ## **If you made the repo online on GitHub first, and have not yet made a local repo:**
 
@@ -15,7 +22,4 @@ Then you have an easy task
 
 Navigate to your "Sites" folder via `cd` and confirm you are in the right location via `pwd`
 
-`
-git clone https://github.com/__username__/__repo__.git
-
-`
+`git clone https://github.com/__username__/__repo__.git`
