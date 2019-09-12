@@ -106,8 +106,7 @@ To complete the assignment, you must complete the following:
 #### Additional Requirements
 
 - Website must be responsive
-- Only one page is needed, manage state via updating a "state" variable that stores the current view to display
-- [hint](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- Only one page is needed, manage state via updating a "state" variable that stores the current view to display	
 - Style your app as you wish
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
