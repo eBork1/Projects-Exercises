@@ -29,7 +29,7 @@ For this project we will be using icon packages and primative state management
 
 ### MVP
 
-By default, the app should prompt the user to click through the *single page app* and see a new view for every step
+By default, the app should prompt the user to click through the _single page app_ and see a new view for every step
 
 You need to be able to scroll through the numbers to see your symbol (page 5 on the wireframe)
 
@@ -47,14 +47,12 @@ See [wireframe](https://xd.adobe.com/view/d4197d89-2c18-4e0e-5a01-c4ad9240fbc2-a
 
 ##### Setup:
 
-1. Create repo, for example: `my-app`
-2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
+1. [Create GitHub repo (either online or locally)](../git-instructions.md), for example: `my-app`
+2. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-5. Import and route necessary css/js files (E.g. Bootstrap)
-6. Save all and create your first commit to `master`
+3. Import and route necessary css/js files (E.g. Bootstrap)
+4. Save all and create your first commit to `master`, **then** switch to a dev branch
 
 ###### Application File Structure
 
@@ -106,7 +104,7 @@ To complete the assignment, you must complete the following:
 #### Additional Requirements
 
 - Website must be responsive
-- Only one page is needed, manage state via updating a "state" variable that stores the current view to display	
+- Only one page is needed, manage state via updating a "state" variable that stores the current view to display
 - Style your app as you wish
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.

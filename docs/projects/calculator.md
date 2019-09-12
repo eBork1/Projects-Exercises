@@ -45,14 +45,12 @@ By default, you should create a working responsive calculator that can perform t
 
 ##### Setup:
 
-1. Create repo, for example: `my-app`
-2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
+1. [Create GitHub repo (either online or locally)](../git-instructions.md), for example: `my-app`
+2. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-5. Import and route necessary css/js files (E.g. Bootstrap)
-6. Save all and create your first commit to `master`
+3. Import and route necessary css/js files (E.g. Bootstrap)
+4. Save all and create your first commit to `master`, **then** switch to a `dev` branch
 
 ###### Application File Structure
 
