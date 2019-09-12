@@ -16,7 +16,7 @@ git push -u origin master
 
 ## **If you made the repo online on GitHub first, and have not yet made a local repo:**
 
-**_This method will not work if you are using a framework such as React or Laravel_** Otherwise, you have an easy task
+**_This method will not work if you are using a framework such as React or Laravel,_** otherwise, you have an easy task
 
 Navigate to your "Sites" folder via `cd` and confirm you are in the right location via `pwd`
 
