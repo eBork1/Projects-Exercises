@@ -4,7 +4,7 @@
 
 Create a [single page web app](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58) that plays a game with the user to _read their mind_
 
-For this project we will be using icon packages and state management
+For this project we will be using icon packages and primative state management
 
 ### Table of contents
 
@@ -29,7 +29,7 @@ For this project we will be using icon packages and state management
 
 ### MVP
 
-By default, the app should prompt the user to click through the app and see a new view for every step
+By default, the app should prompt the user to click through the *single page app* and see a new view for every step
 
 You need to be able to scroll through the numbers to see your symbol (page 5 on the wireframe)
 
@@ -98,7 +98,7 @@ It is okay if your project has more files and directories, but you at least need
 To complete the assignment, you must complete the following:
 
 1. Use JavaScript to successfully show the animation transitions
-2. Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
+2. Successfully show state management for each step of the single page app( "view" 1, 2, 3, ..) without refreshing the page, this means that you will only create a single index.html
 3. The restart button should not refresh the page, but rather, reset the state of the mind reader
 4. Use Icons of your choice, we recommend [https://fontawesome.com/icons](https://fontawesome.com/icons)
 5. All multiples of 9 should be the same symbol
@@ -106,6 +106,8 @@ To complete the assignment, you must complete the following:
 #### Additional Requirements
 
 - Website must be responsive
+- Only one page is needed, manage state via updating a "state" variable that stores the current view to display
+- [hint](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - Style your app as you wish
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
