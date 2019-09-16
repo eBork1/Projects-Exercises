@@ -10,6 +10,7 @@
 - [Sliding Puzzle](docs/projects/sliding-puzzle.md)
 - [Weather App](docs/projects/weather-app.md)
 - [To Do List](docs/projects/to-do-list.md)
+- [React Restaurant](docs/projects/react-restaurant.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/projects/PHP-1.md)
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/projects/PHP-2.md)
 - [Laravel Library](docs/projects/laravel-library.md)
