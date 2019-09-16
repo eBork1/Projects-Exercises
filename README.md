@@ -1,10 +1,10 @@
 # Projects and Exercises
 
 - [Blog](docs/projects/blog.md)
-- [Campaign Website](docs/projects/campaign-website.md)
 - [Digital Clock](docs/projects/digital-clock.md)
 - [Countdown Timer](docs/projects/countdown-timer.md)
 - [Mind Reader](docs/projects/mind-reader.md)
+- [Campaign Website](docs/projects/campaign-website.md)
 - [Tic Tac Toe](docs/projects/tic-tac-toe.md)
 - [Calculator](docs/projects/calculator.md)
 - [Sliding Puzzle](docs/projects/sliding-puzzle.md)
