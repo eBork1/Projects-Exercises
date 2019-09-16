@@ -32,5 +32,5 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 - Sam Wheeling - [https://www.github.com/anchormansam](https://www.github.com/anchormansam)
 - Rachael Yoder - [https://www.github.com/rachyoder](https://www.github.com/rachyoder)
 - Michael Loyselle - [https://www.github.com/Leozas](https://www.github.com/Leozos)
-- Ethan Borkosky - [https://www.github.com/iBork1](https://www.github.com/iBork1)
+- Ethan Borkosky - [https://www.github.com/eBork1](https://www.github.com/eBork1)
 
