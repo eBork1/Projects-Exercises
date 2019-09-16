@@ -1,7 +1,5 @@
 # Projects and Exercises
 
----
-
 #### Prework
 
 - [Blog](docs/projects/blog.md)
