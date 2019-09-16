@@ -14,7 +14,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 - Robbie Gay - [https://robbiegay.github.io/](https://robbiegay.github.io/)
 - Todd Trivisonno - [https://toddtrivisonno.github.io/](https://toddtrivisonno.github.io/)
 - Abram Gornik - [https://Wildercat.github.io/](https://Wildercat.github.io/)
-- Eric Hampton - [https://EricHampton.github.io/]https://erichampton12.github.io/Blog/
+- Eric Hampton - [https://EricHampton.github.io/](https://erichampton12.github.io/Blog/)
 - Sam Wheeling - [https://anchormansam.github.io/my-blog/](https://anchormansam.github.io/my-blog/)
 - Rachael Yoder - [https://rachyoder.github.io/](https://rachyoder.github.io/)
 - Michael Loyselle - [https://Leozas.github.io/](https://Leozos.github.io/)
