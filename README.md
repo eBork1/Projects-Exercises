@@ -1,5 +1,7 @@
 # Projects and Exercises
 
+---
+
 #### Prework
 
 - [Blog](docs/projects/blog.md)
@@ -49,6 +51,8 @@
 - [Attack of the Clones](docs/projects/attack-of-the-clones.md)
 - [Phone Simulator (Final Portfolio)](docs/projects/portfolio.md)
 - [Final Project](docs/projects/final-project.md)
+
+---
 
 # Refactoring
 
