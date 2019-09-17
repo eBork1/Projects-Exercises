@@ -34,6 +34,8 @@ To keep things light and fun, pick issues that pertain to the character in their
 
 By default, the app should show potential voters who the candidate is and have lots of different content; view the [Requirements](#Requirements) for more
 
+Try your hardest to use bootstrap for any and all css changes - This project is to get familiar with using bootstrap, we already know how to use CSS on its own
+
 #### Wireframe
 
 ![wireframe](../wireframes/campaign-website.jpg)
@@ -50,8 +52,6 @@ By default, the app should show potential voters who the candidate is and have l
 
 1. [Create GitHub repo (either online or locally)](../git-instructions.md), for example: `my-app`
 2. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
 3. Import and route necessary css/js files (E.g. Bootstrap)
 4. Save all and create your first commit to `master`, **then** switch to a dev branch
 
@@ -113,11 +113,11 @@ To complete the assignment, you must complete the following:
 5. A call to action - election day is November 5!
 6. Scroll to an anchor tag
 7. Punch out to a website
+8. Use as much bootstrap and as little extend/augmented css as possible
 
 #### Additional Requirements
 
-- Website must be responsive
-- Try your hardest to use bootstrap for any and all css changes - this project is to get familiar with the framework
+- Website must be responsive and utilize as much Bootstrap and as little user generated css as possible - this project is to get familiar with the framework
 - Style your app as you wish - [bootstrap generators are helpful if you dont like the standard colors](https://themestr.app/theme)
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
@@ -134,6 +134,7 @@ To complete the assignment, you must complete the following:
   - Spinner
   - Jumbotron
 - Augment more Bootstrap Utilities to enhance your website
+- Try using the built in Bootstrap JavaScript classes to manipulate transitions and moviement
 - Download Bootstrap and compile via Sass instead of using CDN
 
 #### If you finish early...
@@ -155,4 +156,8 @@ For more information about content creation, see these articles:
 
 - [Content Creation Tips](https://blog.hubspot.com/marketing/content-creation)
 - [Content Creation Process](https://www.postmm.com/web-design/content-marketing/content-creation-process/)
-- [Bootstrap Theme Generator](https://themestr.app/theme)
+
+Bootstrap Theme Builders
+
+- [themestr.app](https://themestr.app/theme)
+- [bootstrap.build](https://bootstrap.build/)

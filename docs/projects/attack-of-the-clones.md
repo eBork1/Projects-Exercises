@@ -133,3 +133,4 @@ For more information about clone apps, see these articles:
 - [How much does Uber cost?](https://thinkmobiles.com/blog/how-much-cost-make-app-like-uber/)
 - [When You Can’t Innovate, Copy](https://hbr.org/2012/05/when-you-cant-innovate-copy)
 - [The Copycats Of Silicon Valley](https://www.inc.com/yazin-akkawi/why-are-silicon-valley-companies-copying-each-other.html)
+- [Self Retweeting Tweet](https://www.youtube.com/watch?v=zv0kZKC6GAM)

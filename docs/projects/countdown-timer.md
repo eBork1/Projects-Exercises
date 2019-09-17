@@ -132,3 +132,5 @@ For more information about JavaScript, see these articles:
 
 - [How JS works](https://fireship.io/courses/javascript/intro-how-js-works/)
 - [What is JS?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+Be sure to check the [Class Resources Repo for all things bootstrap (including vertical align)](https://github.com/bootcamp-students/Resources)
