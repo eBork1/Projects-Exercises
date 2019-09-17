@@ -103,6 +103,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a flow diagram for the backend architecure to be used in an MVP
 - Use API credentials to only allow access to users with an API key
 - [Use reactstrap to dynamically display data in table](http://reactstrap.github.io/components/tables/)
 

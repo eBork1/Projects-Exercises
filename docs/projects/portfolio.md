@@ -107,6 +107,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a detailed MVP
 - Have an in-app toggle for mobile/desktop view
 
 #### If you finish early...

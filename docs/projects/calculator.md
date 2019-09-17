@@ -125,6 +125,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a list of Stories to be used in a potential MVP
 - Show all buttons that were pressed until `c` in the display area.
 
 ```

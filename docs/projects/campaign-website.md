@@ -126,6 +126,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a MoSCoW list that could be used in an MVP
 - Implement bootstrap components from this list that will enhance your site
   - Carousel
   - Jumbotron

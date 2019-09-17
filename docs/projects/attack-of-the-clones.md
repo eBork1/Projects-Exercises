@@ -110,6 +110,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create an MVP detailing all facets of the wep app you plan to clone
 - Connect your app to a server to have multiple people be able to log in and use it at the same time (gmail clone users can email each other, twitter clone users can @ and follow each other, etc)
 
 #### If you finish early...

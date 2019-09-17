@@ -103,6 +103,7 @@ To complete the assignment, you must complete the following:
 
 #### Additional Requirements
 
+- Pseudocode
 - Website must be responsive
 - Only one page is needed, manage state via updating a "state" variable that stores the current view to display
 - Style your app as you wish

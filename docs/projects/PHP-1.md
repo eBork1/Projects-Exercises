@@ -100,6 +100,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a flow diagram for the backend architecure to be used in an MVP
 - Create API credentials to only let users with the API key access the data
 
 #### If you finish early...

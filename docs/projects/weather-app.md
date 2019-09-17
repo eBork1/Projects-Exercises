@@ -118,6 +118,7 @@ To complete the assignment, you must complete the following:
 
 - Get weather based on location data (no need for user input)
 - Use more data provided by the api (forecast data, historical data, daily change in weather, etc.)
+- Create a list of Personas that could be used in an MVP
 
 #### If you finish early...
 

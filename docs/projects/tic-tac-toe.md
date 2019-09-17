@@ -119,6 +119,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a pain and gain list for a potential MVP
 - Allow players to enter their names.
 - Keep track of number of games won by X and O.
 - Add a link to rules, display in a modal.

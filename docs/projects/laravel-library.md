@@ -130,6 +130,7 @@ Books
 
 #### Stretch Goals
 
+- Create backend archetecture wireframes for use in a potential MVP
 - Create a search bar for querying books from the Google Books API
 - Implement Laravel Auth using composer to create many "Librarians"
 - Add a 'due by date' that keeps track of how long a book has been checked out

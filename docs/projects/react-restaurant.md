@@ -99,6 +99,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create an MVP assigning points to user stories using the fibonacci method
 - Embed a Google Map showing the location of the restaurant.
 - Include a different menu for each day of the week that the restaurant is open.
 - Each time you access the API, you get a different menu. Save the results in local storage so that every time your website is accessed, the user gets the same menu. (Different users will see different menus; that's okay)

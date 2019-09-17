@@ -118,6 +118,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Create a flow diagram for the front end architecture to be used in an MVP
 - Use MySQL
 - Refactor into React.JS
 
