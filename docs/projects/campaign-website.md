@@ -133,7 +133,6 @@ To complete the assignment, you must complete the following:
   - Nav/Navbar
   - Progress
   - Spinner
-  - Jumbotron
 - Extend Bootstrap Core to enhance your website
 - Augment Bootstrap classes to override the core
 - Try using the built in Bootstrap JavaScript classes to manipulate transitions and moviement
