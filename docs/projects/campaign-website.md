@@ -107,7 +107,7 @@ To complete the assignment, you must complete the following:
       - Media Object
       - Popovers
       - Tooltip
-   2. Augment Five [Bootstrap Utilities](https://getbootstrap.com/docs/4.3/utilities) to suit the needs of your website
+   2. Use Five [Bootstrap Utilities](https://getbootstrap.com/docs/4.3/utilities) to suit the needs of your website
 3. A few (more than 3) prominent pictures of your candidate
 4. A table displaying important information for voters
 5. A call to action - election day is November 5!
@@ -134,7 +134,8 @@ To complete the assignment, you must complete the following:
   - Progress
   - Spinner
   - Jumbotron
-- Augment more Bootstrap Utilities to enhance your website
+- Extend Bootstrap Core to enhance your website
+- Augment Bootstrap classes to override the core
 - Try using the built in Bootstrap JavaScript classes to manipulate transitions and moviement
 - Download Bootstrap and compile via Sass instead of using CDN
 
