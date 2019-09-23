@@ -31,7 +31,7 @@ For this project we will be using an external API to retrieve weather data.
 
 By default, the app should display a title, input box for zip code, and submit button.
 
-When the submit button is clicked, the application should fetch weather data from [api.openweathermap.org](api.openweathermap.org).
+When the submit button is clicked, the application should fetch weather data from [api.openweathermap.org](https://api.openweathermap.org).
 
 #### Wireframe
 
