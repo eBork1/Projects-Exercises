@@ -17,10 +17,10 @@
 
 #### JS
 
+- [Weather App](docs/projects/weather-app.md)
 - [Tic Tac Toe](docs/projects/tic-tac-toe.md)
 - [Calculator](docs/projects/calculator.md)
 - [Sliding Puzzle](docs/projects/sliding-puzzle.md)
-- [Weather App](docs/projects/weather-app.md)
 - [To Do List](docs/projects/to-do-list.md)
 
 ---
