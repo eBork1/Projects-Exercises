@@ -99,6 +99,7 @@ To complete the assignment, you must complete the following:
 4. Be able to click on any piece and if it is able to be moved into a new spot, move that piece, otherwise, do nothing.
 5. If you click the final puzzle piece into place, the game should be able to display "winner" and let the user play again _and also_ allow the user to continue clicking the puzzle pieces to shuffle it themselves.
 6. All image parsing must be done dynamically, including the win conditions. No hard coding.
+7. Picture must be different on each tile
 
 #### Additional Requirements
 
