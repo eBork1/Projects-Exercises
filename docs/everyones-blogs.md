@@ -9,7 +9,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 # Blogs
 
 - Taylor Akin - [https://taylorakin.github.io/](https://taylorakin.github.io/)
-- Will McGill - [http://willmcgill.github.io/](http://willmcgill.github.io/)
+- Will McGill - [https://willmcgill.github.io/BootBlog/](https://willmcgill.github.io/BootBlog/)
 - David Joyce - [https://dmjoyce951.github.io/](https://dmjoyce951.github.io/)
 - Robbie Gay - [https://robbiegay.github.io/](https://robbiegay.github.io/)
 - Todd Trivisonno - [https://toddtrivisonno.github.io/](https://toddtrivisonno.github.io/)
