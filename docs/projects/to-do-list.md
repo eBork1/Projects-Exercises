@@ -93,19 +93,22 @@ It is okay if your project has more files and directories, but you at least need
 
 To complete the assignment, you must complete the following:
 
-1. Display all to-do list items
-2. Prompting text to add item
-3. Ability to remove item
-4. Cross out or check off item as "completed"
-5. Remove all completed items
-6. Ability to see number of remaining items
-7. Ability to check off or cross out all items in one click as a "completed all" function
-8. Ability to press a button and all items become active again
-9. Three "views" for the user:
+1. Dynamically Render the content in JavaScript
+2. Use Local Storage to store all to-do list data in the browser
+3. Display all to-do list items
+4. Prompting text to add item
+5. Ability to remove item
+6. Cross out or check off item as "completed"
+7. Remove all completed items
+8. Ability to see number of remaining items
+9. Ability to check off or cross out all items in one click as a "completed all" function
+10. Ability to press a button and all items become active again
+11. Three "views" for the user:
 
 - All to-do list items
 - Only completed items
 - Only active non-completed items
+
 
 #### Additional Requirements
 
