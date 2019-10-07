@@ -1,10 +1,10 @@
-##### Once everyone makes their `username.github.io` page, then the links will appear here
+// ##### Once everyone makes their `username.github.io` page, then the links will appear here
 
-##### Your GitHub account, as well as any repos, will be visible to employers, so make sure your URL's and repo names are professional
+// ##### Your GitHub account, as well as any repos, will be visible to employers, so make sure your URL's and repo names are professional
 
-For example:
+ // For example:
 
-Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
+// Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 
 # Blogs
 
