@@ -109,7 +109,6 @@ To complete the assignment, you must complete the following:
 - Only completed items
 - Only active non-completed items
 
-
 #### Additional Requirements
 
 - Website must be responsive
@@ -123,7 +122,7 @@ To complete the assignment, you must complete the following:
 
 - Create a flow diagram for the front end architecture to be used in an MVP
 - Use MySQL
-- Refactor into React.JS
+- Edit To-Do's in place
 
 #### If you finish early...
 
