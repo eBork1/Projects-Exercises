@@ -114,6 +114,7 @@ To complete the assignment, you must complete the following:
 
 - Add personas and user stories to create an Interview with a user of your product for an MVP
 - Add arrow key integration instead of clicking the tile
+- Add google photos / giphy integration to let a user select an image via search within app
 - Show css transition animation when you click the tile / shuffle the board
 - Allow the [puzzle to be any dimensions based on the aspect ratio of the image (6x6, 5x4, 2x10, etc)](https://malaysia.timbangharga.com/cf/700/cdn/HTB17dx8m4PI8KJjSspfq6ACFXXaB/Tetris-worlds-Sliding-Puzzle-Colorful-Wooden-Tangram-Brain-Teaser-Puzzle-Toys-Game-for-Baby-Child-Kids.jpg)
 - Allow the [tiles to be any dimension (1x2, L, etc)](https://www.michaelfogleman.com/rush/)
