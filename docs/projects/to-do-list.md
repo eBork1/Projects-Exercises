@@ -97,9 +97,9 @@ To complete the assignment, you must complete the following:
 2. Use Local Storage to store all to-do list data in the browser
 3. Display all to-do list items
 4. Prompting text to add item
-5. Ability to remove item
+5. Ability to remove item (soft delete / archive)
 6. Cross out or check off item as "completed"
-7. Remove all completed items
+7. Remove all completed items (soft delete / archive)
 8. Ability to see number of remaining items
 9. Ability to check off or cross out all items in one click as a "completed all" function
 10. Ability to press a button and all items become active again
