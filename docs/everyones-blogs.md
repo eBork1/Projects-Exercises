@@ -10,7 +10,7 @@
 - Sam Wheeling - [https://anchormansam.github.io/my-blog/](https://anchormansam.github.io/my-blog/)
 - Rachael Yoder - [https://rachyoder.github.io/](https://rachyoder.github.io/)
 - Michael Loyselle - [https://Leozas.github.io/](https://Leozas.github.io/)
-- Ethan Borkosky - [https://eBork1.github.io/](https://eBork1.github.io/)
+- Ethan Borkosky - [https://eBork1.github.io/](https://ebork1.github.io/blog-post/)
 
 # GitHub Profiles
 
