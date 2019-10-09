@@ -86,7 +86,8 @@ To complete the assignment, you must complete the following:
 - Each menu item must be an [molecule](https://patternlab.io) (for example, using a bootstrap card with a picture of the meal, as well as the name, and the price, etc)
 
 3. You must use at least one [NPM package](#Recommended-NPM-Installs) to assist you with this project
-4. Manage state
+4. Manage the React.js component state and manipulate the Virtual DOM
+5. Each time you access the API, you get a different menu. Use the [React.js Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) to save the results in local storage so that every time your website is accessed, the user gets the same menu. (Different users will see different menus; that's okay)
 
 #### Additional Requirements
 
@@ -100,12 +101,12 @@ To complete the assignment, you must complete the following:
 #### Stretch Goals
 
 - Create an MVP assigning points to user stories using the fibonacci method
-- Embed a Google Map showing the location of the restaurant.
-- Include a different menu for each day of the week that the restaurant is open.
-- Each time you access the API, you get a different menu. Save the results in local storage so that every time your website is accessed, the user gets the same menu. (Different users will see different menus; that's okay)
-- Make each menu type (appetizers, main course, etc ) be the correct foods instead of random
+- Use NPM to embed a Google Map component showing the location of the restaurant.
+- Include a different 'specials' menu for each day of the week that the restaurant is open and show that menu based on the current day (should prove to work throughout the week) as well as what was on the specials menu yesterday/ what will be on the specials menu tomorrow
+- Make each menu type (appetizers, main course, etc ) be the correct foods instead of random using filtering and natural language parsing
 - Parse the results of the API call to show a list of sides available for substitution (either in addition to or instead of listing sides with each entree).
-- Implement DoorDash style online ordering
+- Implement DoorDash style online ordering with parent-child component state management and a 'shopping cart' to save data for purchase
+- Use Redux state
 
 #### Recommended NPM Installs
 
@@ -128,12 +129,16 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
+- [Learn React.js](https://reactjs.org)
 
-For more information about **_doing something_**, see these articles:
+For more information about OOP, see these articles:
 
-- []()
-- []()
-- []()
+- [Object Oriented Programming wiki](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [OOP vanilla JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [SOLID OOP principles with React.js](https://www.innofied.com/solid-object-oriented-principles-in-react-native-architecture/)
+- [React.js as a functional language](https://medium.com/@andrea.chiarelli/the-functional-side-of-react-229bdb26d9a6#targetText=A%20Higher%2DOrder%20component%20is,new%20component%20as%20its%20output.)
+
+For more information about API Calls, see these articles:
+
+- [Axios](https://www.npmjs.com/package/axios)
 - [API call / timeout visualization](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
