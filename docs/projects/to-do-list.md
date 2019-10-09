@@ -141,5 +141,5 @@ To complete the assignment, you must complete the following:
 For more information about state management, see these articles:
 
 - [What is State Management](https://codeburst.io/state-management-in-javascript-15d0d98837e1)
-- [State Management how to](https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535/)
+- [State Management how to](https://www.dofactory.com/javascript/state-design-pattern)
 - [The future of JavaScript state management is less state management...](https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308)
